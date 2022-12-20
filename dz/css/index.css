@@ -1,0 +1,26 @@
+.main {
+    overflow: hidden;
+    margin-top: 50px;
+
+}
+
+.first {
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-left: 20px;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    line-height: 150px;
+    cursor: pointer;
+    background-color: blue;
+
+}
+.max{
+    
+background-color: red;
+color: beige;
+
+}
